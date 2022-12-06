@@ -7,4 +7,4 @@ cellchat_all.R: CellChat predicted ligand-receptor interactions by using all cel
 
 cellchat_allcond.R: CellChat predicted ligand-receptor interactions for each condition [R]
 
-CellChat_downstream_R.ipynb: all downstream analysis for comprehensive ligand-receptor interactions in mouse brown fat [Python]
+CellChat_downstream_R.ipynb: comprehensive downstream downstream analyses for ligand-receptor interactions in mouse brown fat [Python]
